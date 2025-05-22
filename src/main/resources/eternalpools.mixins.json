@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "media.arc.eternalpools.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"client.DebugHudMixin",
+		"client.InGameHudMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
